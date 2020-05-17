@@ -1,0 +1,26 @@
+{
+  "schemes": [
+    {
+      "name": "Skyline Dark",
+      "foreground": "#D2D8E2",
+      "background": "#181A21",
+      "selectionBackground": "#413C36",
+      "black": "#111318",
+      "blue": "#4665DF",
+      "brightBlack": "#686D8E",
+      "brightBlue": "#5C79EC",
+      "brightCyan": "#35A0BB",
+      "brightGreen": "#07DA8C",
+      "brightPurple": "#B877DB",
+      "brightRed": "#E9436F",
+      "brightWhite": "#EAEDF2",
+      "brightYellow": "#CDCDA5",
+      "cyan": "#21A0B1",
+      "green": "#21B17B",
+      "purple": "#8931B9",
+      "red": "#F43E5C",
+      "white": "#EAEDF2",
+      "yellow": "#B0B073"
+    }
+  ]
+}
